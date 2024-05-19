@@ -19,7 +19,7 @@ const product = [
     },
     {
         id: 3,
-        image: 'Crater.png',
+        image: 'crater.png',
         title: 'Crater',
         price: 129,
     }
